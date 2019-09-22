@@ -38,6 +38,6 @@
     "typescript": "^3.6.3"
   },
   "dependencies": {
-    "@spalger/micro-plus": "link:../micro-plus"
+    "@spalger/micro-plus": "^0.4.0"
   }
 }
