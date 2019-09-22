@@ -1,6 +1,6 @@
 {
   "name": "@spalger/next-plus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A couple helpers for working with next.js",
   "main": "lib/index.js",
   "license": "MIT",
