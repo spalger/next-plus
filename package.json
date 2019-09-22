@@ -14,9 +14,9 @@
   "author": {
     "name": "Spencer Alger"
   },
-  "homepage": "https://github.com/spalger/micro-plus",
+  "homepage": "https://github.com/spalger/next-plus",
   "repository": {
-    "url": "https://github.com/spalger/micro-plus.git"
+    "url": "https://github.com/spalger/next-plus.git"
   },
   "files": [
     "lib"
