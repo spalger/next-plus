@@ -69,7 +69,7 @@ Simplified version of `Route` for use with [next.js dynamic routing](https://nex
 
 ### `ReqContext`
 
-See [@spalger/micro-plus `RewContext` docs](https://github.com/spalger/micro-plus#reqcontext)
+See [@spalger/micro-plus `ReqContext` docs](https://github.com/spalger/micro-plus#reqcontext)
 
 ### `RouteResponse`
 
